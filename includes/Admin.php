@@ -66,7 +66,6 @@ class Admin
 
     public function menu_page_template()
     { ?>
-
         <div class="wrap">
             <div id="wpvk-admin-app"></div>
         </div>
